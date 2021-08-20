@@ -1,7 +1,5 @@
 # Via-CEP-API-Consult
-Script for querying an api that returns data from Brazilian zip codes.
-
-Lib Documentation: [Requests: HTTP for Humans™](https://docs.python-requests.org/en/master/)
+Script for querying an api that returns data from Brazilian zip codes
 
 ## Comands 
 
